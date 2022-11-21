@@ -1,0 +1,1 @@
+Extract in the same directory the .exe is in as Github hates OCX files for some reason.
