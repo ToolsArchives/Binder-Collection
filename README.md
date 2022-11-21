@@ -4,7 +4,7 @@
   
 Download individual binders: https://github.com/De-eloper/Binder-Collection/releases/tag/bindf  
   
-These are all tools I collected over time, all have been checked and are clean.  
+These are all tools I collected over time, not all have been checked and are clean.  
 If you do not trust one, please run in a virtual machine or vps.  
 
   
