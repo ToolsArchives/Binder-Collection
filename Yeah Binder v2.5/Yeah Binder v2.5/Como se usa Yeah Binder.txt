@@ -1,0 +1,12 @@
+Para Que el cripter funcione correctamente tienen 
+que estar los 3 archivos dentro de la misma carpeta:
+
+-Yeah Binder v2.5.exe
+-Stub.exe
+-Original.ico
+
+
+Si quieren cambiar el icono a l Exe solo tienen que marcar
+el checkbox que hay abajo a la derecha del formulario.
+Para que salga con el icono clasico del vb simplemente dejenlo
+sin marcar.
