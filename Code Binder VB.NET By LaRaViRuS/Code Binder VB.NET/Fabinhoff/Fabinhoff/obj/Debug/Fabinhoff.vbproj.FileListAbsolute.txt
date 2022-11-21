@@ -1,0 +1,8 @@
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\bin\Debug\Fabinhoff.exe
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\bin\Debug\Fabinhoff.pdb
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\bin\Debug\Fabinhoff.xml
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\obj\Debug\Fabinhoff.Resources.resources
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\obj\Debug\Fabinhoff.vbproj.GenerateResource.Cache
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\obj\Debug\Fabinhoff.exe
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\obj\Debug\Fabinhoff.xml
+C:\Users\Fabinhoff\Desktop\Fabinhoff\Fabinhoff\obj\Debug\Fabinhoff.pdb
