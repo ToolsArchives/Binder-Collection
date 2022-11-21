@@ -1,0 +1,1 @@
+Extract the OCX to the same directory as SFB.exe, github seems to hate OCX files.
